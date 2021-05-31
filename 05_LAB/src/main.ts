@@ -44,7 +44,7 @@ const LIMIT = 100000;
 const UMBRAL = 0.5;
 
 // tasa de aprendizaje
-const LEARNING_RATE = 0.001;
+const LEARNING_RATE = 0.000001;
 
 // pendiente inicial => encontrado por metodos cuadrados
 // intercepto inicial => encontrado por metodos cuadrados
