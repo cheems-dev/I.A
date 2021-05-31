@@ -1,0 +1,21 @@
+Greedy Best-First Search
+Luis Alberto Ccalluchi Lopez
+Nodo Buscado: Z
+--------------------------
+Open =   [ 21, 'A' ]
+Closed = [] 
+--------------------------
+Iteracion 1
+Open =  [ 11, 'C' ] [ 14, 'B' ] [ 18, 'D' ]
+Closed =  [ 21, 'A' ]
+--------------------------
+Iteracion 2
+Open =  [ 5, 'E' ] [ 8, 'F' ] [ 14, 'B' ] [ 18, 'D' ]
+Closed =  [ 21, 'A' ] [ 11, 'C' ]
+--------------------------
+Iteracion 3
+Open =  [ 0, 'Z' ] [ 8, 'F' ] [ 14, 'B' ] [ 18, 'D' ]
+Closed =  [ 21, 'A' ] [ 11, 'C' ] [ 5, 'E' ]
+--------------------------
+Se encontro el elemento
+Camino Final =  [ 21, 'A' ] [ 11, 'C' ] [ 5, 'E' ] [ 0, 'Z' ]

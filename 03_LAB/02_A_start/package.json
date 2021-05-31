@@ -1,0 +1,13 @@
+{
+  "name": "Greedy_BFS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "Luis Alberto Ccalluchi Lopez <Daprimovaria@outlook.com>",
+  "license": "MIT",
+  "description": "Implementacion de Greedy Best First Search "
+}

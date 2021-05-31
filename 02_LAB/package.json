@@ -1,0 +1,14 @@
+{
+  "name": "02_LAB",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -w",
+    "start": "node dist/main.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "Luis Alberto Ccalluchi Lopez<daprimovaria@gmail.com>",
+  "license": "ISC"
+}

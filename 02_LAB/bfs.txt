@@ -1,0 +1,27 @@
+BSF  - Nodo Seleccionado H
+Luis Alberto Ccalluchi Lopez
+ Paso 1
+frontier = F
+reached = F
+-------------------------------------
+Paso 2
+frontier = D,K
+reached = F,D,K
+-------------------------------------
+Paso 3
+frontier = K,B,E
+reached = F,D,K,B,E
+-------------------------------------
+Paso 4
+frontier = B,E,G,L
+reached = F,D,K,B,E,G,L
+-------------------------------------
+Paso 5
+frontier = E,G,L,A,C
+reached = F,D,K,B,E,G,L,A,C
+-------------------------------------
+Paso 6
+frontier = G,L,A,C
+reached = F,D,K,B,E,G,L,A,C
+-------------------------------------
+G -> H

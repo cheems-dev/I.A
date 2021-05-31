@@ -1,0 +1,39 @@
+DFS  - Nodo Seleccionado H 
+Luis Alberto Ccalluchi Lopez
+Paso  1
+Frontier: F(0)
+Reached: F(0) 
+----------------------------
+Paso  2
+Frontier: D(-1)
+Reached: F(0) D(-1) 
+----------------------------
+Paso  3
+Frontier: B(-2)
+Reached: F(0) D(-1) B(-2) 
+----------------------------
+Paso  4
+Frontier: A(-3)
+Reached: F(0) D(-1) B(-2) A(-3) 
+----------------------------
+Paso  5
+Frontier: C(-3)
+Reached: F(0) D(-1) B(-2) A(-3) C(-3) 
+----------------------------
+Paso  6
+Frontier: E(-2)
+Reached: F(0) D(-1) B(-2) A(-3) C(-3) E(-2) 
+----------------------------
+Paso  7
+Frontier: K(-1)
+Reached: F(0) D(-1) B(-2) A(-3) C(-3) E(-2) K(-1) 
+----------------------------
+Paso  8
+Frontier: G(-2)
+Reached: F(0) D(-1) B(-2) A(-3) C(-3) E(-2) K(-1) G(-2) 
+----------------------------
+Paso  9
+Frontier: L(-2)
+Reached: F(0) D(-1) B(-2) A(-3) C(-3) E(-2) K(-1) G(-2) 
+----------------------------
+Node found: H
