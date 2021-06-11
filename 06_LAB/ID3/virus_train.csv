@@ -1,0 +1,13 @@
+fever;cough;fatigue;pain;disease
+true;severe;mild;mild;Covid-19
+true;moderate;mild;moderate;Covid-19
+false;moderate;mild;moderate;SARS-CoV1
+false;severe;mild;mild;Covid-19
+true;moderate;mild;moderate;Covid-19
+true;severe;moderate;moderate;SARS-CoV1
+false;moderate;moderate;moderate;SARS-CoV1
+false;moderate;severe;mild;Covid-19
+true;moderate;severe;moderate;SARS-CoV-1
+false;moderate;severe;severe;SARS-CoV-2
+false;severe;mild;severe;Covid-19
+false;mild;mild;severe;SARS-CoV1

@@ -1,0 +1,23 @@
+{
+  "name": "id3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon dist/main.js",
+    "start": "node dist/main.js",
+    "build": "tsc --w && rm -rf dist/"
+  },
+  "keywords": [],
+  "author": "Luis Ccalluchi Lopez <daprimovaria@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "convert-csv-to-json": "^1.3.0",
+    "decision-tree": "^0.3.7"
+  },
+  "devDependencies": {
+    "@types/node": "^15.12.2",
+    "nodemon": "^2.0.7",
+    "typescript": "^4.3.2"
+  }
+}
