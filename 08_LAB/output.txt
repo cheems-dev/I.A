@@ -1,0 +1,13 @@
+Luis Alberto Ccalluchi Lopez
+======================
+Libreria usada: libsvm-js
+Algoritmo usados: 
+Support Vector Machine
+Cross Validation
+======================
+Desviacion Estandar 0.25
+Numero de K Folds: 10
+======================
+Tasa de clasificación promedio  
+	Support Vector Machine: 85%
+	Cross Validation: 88%
