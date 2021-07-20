@@ -1,0 +1,207 @@
+Luis ALberto Ccalluchi Lopez
+Libreria usada: Tensorflow.js
+Cantidad de datos de entrenamiento:  4700
+Cantidad de datos de test:  3500
+Epocas:  100
+Epoch 1 / 100
+3473ms 496183us/step - loss=34.66 val_loss=9.80 
+Epoch 2 / 100
+1911ms 272934us/step - loss=10.80 val_loss=9.47 
+Epoch 3 / 100
+1769ms 252680us/step - loss=10.85 val_loss=7.56 
+Epoch 4 / 100
+1796ms 256627us/step - loss=10.80 val_loss=8.34 
+Epoch 5 / 100
+1703ms 243231us/step - loss=10.70 val_loss=8.50 
+Epoch 6 / 100
+1420ms 202826us/step - loss=10.72 val_loss=7.76 
+Epoch 7 / 100
+1810ms 258513us/step - loss=10.71 val_loss=8.52 
+Epoch 8 / 100
+1364ms 194787us/step - loss=10.77 val_loss=8.55 
+Epoch 9 / 100
+2169ms 309848us/step - loss=10.49 val_loss=9.41 
+Epoch 10 / 100
+2846ms 406631us/step - loss=10.67 val_loss=8.12 
+Epoch 11 / 100
+1893ms 270364us/step - loss=10.31 val_loss=8.84 
+Epoch 12 / 100
+1535ms 219258us/step - loss=10.36 val_loss=8.41 
+Epoch 13 / 100
+1726ms 246562us/step - loss=10.30 val_loss=8.90 
+Epoch 14 / 100
+1461ms 208679us/step - loss=10.32 val_loss=7.85 
+Epoch 15 / 100
+1448ms 206810us/step - loss=10.27 val_loss=8.35 
+Epoch 16 / 100
+1982ms 283146us/step - loss=10.35 val_loss=7.72 
+Epoch 17 / 100
+1529ms 218451us/step - loss=10.32 val_loss=8.59 
+Epoch 18 / 100
+1610ms 229968us/step - loss=10.41 val_loss=8.06 
+Epoch 19 / 100
+1529ms 218379us/step - loss=10.41 val_loss=7.62 
+Epoch 20 / 100
+1622ms 231761us/step - loss=10.26 val_loss=8.68 
+Epoch 21 / 100
+1520ms 217100us/step - loss=10.17 val_loss=7.95 
+Epoch 22 / 100
+1691ms 241509us/step - loss=10.26 val_loss=7.33 
+Epoch 23 / 100
+1721ms 245891us/step - loss=10.17 val_loss=7.32 
+Epoch 24 / 100
+1704ms 243424us/step - loss=10.10 val_loss=9.12 
+Epoch 25 / 100
+1417ms 202487us/step - loss=10.15 val_loss=8.13 
+Epoch 26 / 100
+1333ms 190383us/step - loss=10.04 val_loss=7.74 
+Epoch 27 / 100
+1529ms 218460us/step - loss=9.89 val_loss=7.63 
+Epoch 28 / 100
+1691ms 241544us/step - loss=9.65 val_loss=7.59 
+Epoch 29 / 100
+1718ms 245467us/step - loss=9.70 val_loss=9.64 
+Epoch 30 / 100
+1430ms 204228us/step - loss=9.65 val_loss=7.78 
+Epoch 31 / 100
+1445ms 206484us/step - loss=9.68 val_loss=7.32 
+Epoch 32 / 100
+1559ms 222647us/step - loss=9.61 val_loss=7.52 
+Epoch 33 / 100
+1422ms 203161us/step - loss=9.68 val_loss=7.59 
+Epoch 34 / 100
+1762ms 251728us/step - loss=9.53 val_loss=7.87 
+Epoch 35 / 100
+1570ms 224353us/step - loss=9.56 val_loss=6.80 
+Epoch 36 / 100
+1520ms 217134us/step - loss=9.61 val_loss=7.48 
+Epoch 37 / 100
+2193ms 313344us/step - loss=9.49 val_loss=7.43 
+Epoch 38 / 100
+2588ms 369784us/step - loss=9.45 val_loss=8.43 
+Epoch 39 / 100
+2176ms 310836us/step - loss=9.41 val_loss=7.69 
+Epoch 40 / 100
+2256ms 322291us/step - loss=9.23 val_loss=6.97 
+Epoch 41 / 100
+2003ms 286163us/step - loss=9.22 val_loss=7.84 
+Epoch 42 / 100
+2226ms 318006us/step - loss=9.13 val_loss=6.56 
+Epoch 43 / 100
+2238ms 319777us/step - loss=8.97 val_loss=6.39 
+Epoch 44 / 100
+2075ms 296472us/step - loss=8.95 val_loss=6.57 
+Epoch 45 / 100
+2965ms 423582us/step - loss=8.84 val_loss=6.80 
+Epoch 46 / 100
+1951ms 278733us/step - loss=8.79 val_loss=6.65 
+Epoch 47 / 100
+2503ms 357620us/step - loss=8.84 val_loss=6.61 
+Epoch 48 / 100
+2168ms 309704us/step - loss=8.66 val_loss=7.18 
+Epoch 49 / 100
+2309ms 329821us/step - loss=8.71 val_loss=7.06 
+Epoch 50 / 100
+2170ms 309973us/step - loss=8.37 val_loss=5.89 
+Epoch 51 / 100
+2210ms 315745us/step - loss=8.60 val_loss=7.63 
+Epoch 52 / 100
+2122ms 303192us/step - loss=8.51 val_loss=6.35 
+Epoch 53 / 100
+2167ms 309552us/step - loss=8.61 val_loss=6.88 
+Epoch 54 / 100
+2360ms 337082us/step - loss=8.31 val_loss=6.34 
+Epoch 55 / 100
+2643ms 377617us/step - loss=8.44 val_loss=6.31 
+Epoch 56 / 100
+2629ms 375539us/step - loss=8.45 val_loss=7.10 
+Epoch 57 / 100
+2089ms 298363us/step - loss=8.19 val_loss=6.59 
+Epoch 58 / 100
+1882ms 268821us/step - loss=8.16 val_loss=6.50 
+Epoch 59 / 100
+2079ms 297001us/step - loss=8.11 val_loss=7.04 
+Epoch 60 / 100
+2089ms 298436us/step - loss=8.15 val_loss=7.47 
+Epoch 61 / 100
+2621ms 374392us/step - loss=8.15 val_loss=5.93 
+Epoch 62 / 100
+2708ms 386884us/step - loss=8.01 val_loss=5.14 
+Epoch 63 / 100
+2411ms 344418us/step - loss=8.14 val_loss=6.07 
+Epoch 64 / 100
+2714ms 387769us/step - loss=8.04 val_loss=6.52 
+Epoch 65 / 100
+2250ms 321369us/step - loss=7.89 val_loss=6.05 
+Epoch 66 / 100
+2867ms 409531us/step - loss=7.94 val_loss=7.13 
+Epoch 67 / 100
+2017ms 288161us/step - loss=7.78 val_loss=6.40 
+Epoch 68 / 100
+2408ms 344054us/step - loss=7.81 val_loss=5.53 
+Epoch 69 / 100
+2718ms 388323us/step - loss=7.79 val_loss=5.97 
+Epoch 70 / 100
+2257ms 322465us/step - loss=7.98 val_loss=6.24 
+Epoch 71 / 100
+2728ms 389688us/step - loss=7.88 val_loss=5.99 
+Epoch 72 / 100
+2120ms 302908us/step - loss=7.72 val_loss=5.95 
+Epoch 73 / 100
+2764ms 394914us/step - loss=7.78 val_loss=6.71 
+Epoch 74 / 100
+2908ms 415481us/step - loss=7.66 val_loss=5.95 
+Epoch 75 / 100
+2415ms 344930us/step - loss=7.69 val_loss=5.84 
+Epoch 76 / 100
+1894ms 270547us/step - loss=7.69 val_loss=6.95 
+Epoch 77 / 100
+2235ms 319351us/step - loss=7.51 val_loss=5.98 
+Epoch 78 / 100
+2388ms 341179us/step - loss=7.59 val_loss=5.09 
+Epoch 79 / 100
+2395ms 342092us/step - loss=7.84 val_loss=5.40 
+Epoch 80 / 100
+2302ms 328899us/step - loss=7.55 val_loss=6.42 
+Epoch 81 / 100
+1973ms 281812us/step - loss=7.70 val_loss=6.22 
+Epoch 82 / 100
+2209ms 315522us/step - loss=7.75 val_loss=5.64 
+Epoch 83 / 100
+2223ms 317555us/step - loss=7.60 val_loss=5.95 
+Epoch 84 / 100
+2197ms 313798us/step - loss=7.66 val_loss=6.75 
+Epoch 85 / 100
+2044ms 292013us/step - loss=7.48 val_loss=5.94 
+Epoch 86 / 100
+1939ms 277060us/step - loss=7.59 val_loss=5.72 
+Epoch 87 / 100
+2029ms 289882us/step - loss=7.48 val_loss=6.21 
+Epoch 88 / 100
+2349ms 335618us/step - loss=7.57 val_loss=5.77 
+Epoch 89 / 100
+1886ms 269443us/step - loss=7.78 val_loss=6.17 
+Epoch 90 / 100
+2032ms 290288us/step - loss=7.54 val_loss=5.63 
+Epoch 91 / 100
+2369ms 338364us/step - loss=7.43 val_loss=6.67 
+Epoch 92 / 100
+2552ms 364546us/step - loss=7.61 val_loss=6.93 
+Epoch 93 / 100
+2291ms 327348us/step - loss=7.60 val_loss=6.65 
+Epoch 94 / 100
+2296ms 328051us/step - loss=7.57 val_loss=6.66 
+Epoch 95 / 100
+2425ms 346443us/step - loss=7.51 val_loss=6.55 
+Epoch 96 / 100
+2282ms 325992us/step - loss=7.33 val_loss=6.86 
+Epoch 97 / 100
+2235ms 319334us/step - loss=7.44 val_loss=6.30 
+Epoch 98 / 100
+2745ms 392167us/step - loss=7.45 val_loss=6.69 
+Epoch 99 / 100
+2381ms 340085us/step - loss=7.48 val_loss=5.32 
+Epoch 100 / 100
+2390ms 341432us/step - loss=7.45 val_loss=5.22 
+La edad real del abalon de prueba es 10, el resultado de inferencia del modelo es: 
+      11.95931339263916

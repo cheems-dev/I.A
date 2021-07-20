@@ -1,0 +1,22 @@
+Resumen: 
+1. [x] Base de datos cientifica
+2. [x] Explicacion de la base de datos
+
+Base de datos: https://archive.ics.uci.edu/ml/datasets/Abalone
+
+Predecir la edad del abulón a partir de mediciones físicas. La edad del abulón se determina cortando el molusco a través del cono, manteándola y contando el número de anillos a través de un microscopio, una tarea aburrida y que consume mucho tiempo. Otras mediciones, que son más fáciles de obtener, se utilizan para predecir la edad. Para resolver el problema puede ser necesaria más información, como los patrones climáticos y la ubicación (por lo tanto, la disponibilidad de alimentos).
+De los datos originales se eliminaron ejemplos con valores faltantes (la mayoría con el valor predicho que falta), y los rangos de los valores continuos se han escalado para su uso con un ANN (dividiendo por 200).
+
+Detalles  de la base de datos:
+
+  1. [sex] -> Sexo del molusco representado con iniciales.  
+      F -> Femenino
+      M -> Masculino
+      I -> Infante
+  2. [length] -> londgitud medido en mm 
+  3. [diametro] -> diametro de el molusco medido en mm
+  4. [height] -> altura
+  5. [weight.w] ->  Peso entero con carne en caparazpo medido en gramos
+  6. [weight.v] -> Peso de las vísceras  medido en gramos
+  7. [weight.sh] ->  Peso despues de la disecacion medido en gramos
+  8.[rings] -> anillos, revelan la edad de el molusco, se mide en años
